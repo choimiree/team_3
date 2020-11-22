@@ -7,4 +7,3 @@
 ### 미리
 
 하루종일 error와 싸우는중
-왜 dataitgirls4에서는 push가 안될까...
